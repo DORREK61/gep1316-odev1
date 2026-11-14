@@ -74,7 +74,9 @@ python test_video_aciklama.py
 
 ## Ekran görüntüleri
 
-*(Buraya programı çalıştırırken aldığın 2-3 ekran görüntüsünü ekle: menü, hatalı girdi uyarısı, oluşan açıklama.)*
+![Menü](IMAGE1.png)
+![Hatalı girdi uyarısı](IMAGE2.png)
+![Oluşan açıklama](IMAGE3.png)
 
 ## Yapay zekâ kullanımı
 
